@@ -1,0 +1,12 @@
+name: DestinyEvent
+main: com.destiny.main.Main
+version: 0.1
+description: Plugin Event Destiny
+author: clipsy1
+commands:
+    evenements:
+        description: Join an event!
+        usage: /evenements help
+        aliases:
+        - event
+        - events
